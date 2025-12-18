@@ -72,7 +72,7 @@ Esses valores são analisados tanto para os cenários aleatórios quanto para o 
 ## 5️. Protocolo Experimental — 5 Execuções
 
 ### 5.1. Treinamento:
-- O modelo é **treinado uma única vez**, partindo de pesos inicializados aleatoriamente;
+- O modelo é **treinado uma única vez**, partindo de um cenário introduzido manualmente (realizado previamente em sala de aula);
 - O objetivo é capturar as regularidades lógicas do domínio.
 
 ### 5.2. Avaliação:
